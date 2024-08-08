@@ -1,0 +1,57 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/4c5Yl5fiwgGOZDNMlJzFt/_buildManifest.js",
+    "static/4c5Yl5fiwgGOZDNMlJzFt/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-bbecb7d54330d002.js",
+      "static/chunks/main-35dd51a4ebea5223.js",
+      "static/css/f180bbcb54b83128.css",
+      "static/chunks/pages/index-e64f9ce9100142f8.js"
+    ],
+    "/[meetupId]": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-bbecb7d54330d002.js",
+      "static/chunks/main-35dd51a4ebea5223.js",
+      "static/chunks/827-0c1c630e665ddf5c.js",
+      "static/css/1331081462126526.css",
+      "static/chunks/pages/[meetupId]-037b249d16708ee6.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-bbecb7d54330d002.js",
+      "static/chunks/main-35dd51a4ebea5223.js",
+      "static/css/e8385b48db47ce8b.css",
+      "static/chunks/pages/_app-075586b05fa32f0c.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-bbecb7d54330d002.js",
+      "static/chunks/main-35dd51a4ebea5223.js",
+      "static/chunks/pages/_error-ee5b5fb91d29d86f.js"
+    ],
+    "/new-meetup": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-bbecb7d54330d002.js",
+      "static/chunks/main-35dd51a4ebea5223.js",
+      "static/chunks/827-0c1c630e665ddf5c.js",
+      "static/css/99dc6c128aaed6c7.css",
+      "static/chunks/pages/new-meetup-aff75c9421c16580.js"
+    ],
+    "/new-meetup/[test]": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-bbecb7d54330d002.js",
+      "static/chunks/main-35dd51a4ebea5223.js",
+      "static/chunks/pages/new-meetup/[test]-70f7f56a38fcc9d2.js"
+    ]
+  },
+  "ampFirstPages": []
+}
